@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DarolAndroidApp</string>
+    <string name="building_code_login">ورود با کد ساختمان</string>
+    <string name="register_building">ثبت ساختمان</string>
+    <string name="sign_in">ورود با نام کاربری</string>
+    <string name="cancel">انصراف</string>
+    <string name="enter">ورود</string>
+    <string name="enter_building_code">کد ساختمان</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">رمز عبور</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
